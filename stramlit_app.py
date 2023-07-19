@@ -1,6 +1,6 @@
 import streamlit
 import snowflake.connector
-import requirements.txt 
+
 
 streamlit.title('My Parents New Healthy Diner')
 
